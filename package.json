@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmhung127/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "tmh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmhung127/blog/issues"
+  },
+  "homepage": "https://github.com/tmhung127/blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
